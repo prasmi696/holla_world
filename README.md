@@ -1,2 +1,1 @@
-# holla_world
-Este repositorio es para practicar el flujo de Github
+Hola soy Steven gaviria, profesión constructor, desarrolle estudios en analitica de datos en programación, hoy día estudio derecho, tengo una gran pación por el conoximiento, me llena el como el ser humano através de tipo a evolucionados cientificamente, y desarrollado inteligesncia que hoy endía nos ha sombramos.
