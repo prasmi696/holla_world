@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+pydantic==2.4.2
+pydantic-settings==2.0.3
+sqlalchemy==2.0.23
+pytest==7.4.3
+pytest-asyncio==0.21.1
+python-docx==0.8.11
+PyPDF2==3.0.1
+spacy==3.7.2
+nltk==3.8.1
+requests==2.31.0
+python-dotenv==1.0.0
+cors==1.0.1
